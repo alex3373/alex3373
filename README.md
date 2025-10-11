@@ -1,4 +1,4 @@
-# Hola, soy Alex
+# Hola! soy Alex
 
 Desarrollador **Full Stack** con enfoque en el desarrollo de aplicaciones **web y móviles**, complementado con experiencia en **análisis y automatización de datos**. He trabajado en la creación de interfaces dinámicas, APIs escalables y optimización de procesos mediante herramientas digitales.
 
