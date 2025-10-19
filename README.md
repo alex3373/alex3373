@@ -1,35 +1,12 @@
-# Hola! soy Alex
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a312cdd-a2e2-4dd4-a341-fbd03b4e7e65" />
 
-Desarrollador **Full Stack** con enfoque en el desarrollo de aplicaciones **web y móviles**, complementado con experiencia en **análisis y automatización de datos**. He trabajado en la creación de interfaces dinámicas, APIs escalables y optimización de procesos mediante herramientas digitales.
 
-Mi forma de trabajar combina **estructura técnica**, **pensamiento analítico** y orientación a la **resolución eficiente de problemas**.
 
----
-
-## 🔧 Tecnologías principales
-
-**Frontend:** React · Ionic · TypeScript · HTML · CSS  
-**Backend:** Django · Node.js · REST APIs  
-**Bases de Datos:** PostgreSQL · MySQL · Firestore · PL/SQL  
-**Automatización y Reporting:** Excel avanzado · Power Query · Macros VBA  
-**Herramientas:** Git · Vite · Docker (básico)
-
----
-
-## 🎓 Formación
-
-**Analista Programador** — DUOC UC (2023–2025)
-
----
-
-## ✅ Certificaciones
-
-- Cisco CCST – Networking & Cybersecurity  
-- Microsoft Azure Fundamentals (AZ-900) · Azure Data Fundamentals (DP-900)  
-- PCEP – Python Certified Entry-Level Programmer  
-- Inglés avanzado (C1)
-
----
-
-📩 *Disponible para desarrollo, automatización o colaboración técnica.*
-
+const alex3373 = {
+  role: "Full Stack Developer",
+  focus: ["Web", "Mobile", "APIs", "Data Optimization"],
+  code: ["Python", "TypeScript", "SQL", "PLSQL"],
+  tools: ["React", "Django", "Ionic", "Firebase", "Render"],
+  mindset: "estructurado, analítico y orientado a la eficiencia",
+  currently: "creando soluciones prácticas y mantenibles"
+};
