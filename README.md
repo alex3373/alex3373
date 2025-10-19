@@ -3,6 +3,12 @@
 
 
 
-
-const alex3373 = { role: "Full Stack Developer", focus: ["Web", "Mobile", "APIs", "Data Optimization"], code: ["Python", "TypeScript", "SQL", "PLSQL"], tools: ["React", "Django", "Ionic", "Firebase", "Render"], mindset: "estructurado, analítico y orientado a la eficiencia", currently: "creando soluciones prácticas y mantenibles" };
-
+```js
+const alex3373 = {
+  role: "Full Stack Developer",
+  focus: ["Web", "Mobile", "APIs", "Data Optimization"],
+  code: ["Python", "TypeScript", "SQL", "PLSQL"],
+  tools: ["React", "Django", "Ionic", "Firebase", "Render"],
+  mindset: "estructurado, analítico y orientado a la eficiencia",
+  currently: "creando soluciones prácticas y mantenibles"
+};
