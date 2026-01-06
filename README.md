@@ -5,10 +5,11 @@
 
 ```js
 const alex3373 = {
-  role: "Full Stack Developer",
-  focus: ["Web", "Mobile", "APIs", "Data Optimization"],
-  code: ["Python", "TypeScript", "SQL", "PLSQL"],
-  tools: ["React", "Django", "Ionic", "Firebase", "Render"],
-  mindset: "estructurado, analítico y orientado a la eficiencia",
-  currently: "creando soluciones prácticas y mantenibles"
+  role: "Backend-Focused Full Stack Developer",
+  experience: ["Web Applications", "Mobile Apps", "REST APIs", "Data Optimization"],
+  languages: ["Python", "TypeScript", "SQL", "PL/SQL"],
+  frameworks: ["React", "Django REST", "Ionic", "Node.js"],
+  cloud: ["Firebase", "Oracle Cloud", "Render"],
+  approach: "structured, analytical, efficiency-driven",
 };
+
